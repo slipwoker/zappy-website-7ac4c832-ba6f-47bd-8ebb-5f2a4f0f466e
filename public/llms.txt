@@ -1,6 +1,4 @@
-# FORT — Generative Engine Optimization Map
-
-> A קמעונאות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About FORT
-FORT is a business in the קמעונאות industry.
-
-## Target Audience
-- מעצבי פנים
-
-## Industry
-קמעונאות
-
+## About Business
 ---
 
 # Additional Resources
