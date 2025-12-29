@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fort-7ac4c832.zappy5.app/sitemap.xml

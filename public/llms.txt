@@ -1,0 +1,57 @@
+# FORT — Generative Engine Optimization Map
+
+> A קמעונאות business.
+
+---
+
+## Pages
+
+### בית
+https://fort-7ac4c832.zappy5.app
+גלו מאווררי תקרה יוקרתיים ופתרונות תאורה מעוצבים ב-FORT. פתרונות מקצועיים למעצבי פנים. צרו קשר עוד היום!
+
+### שירותים
+https://fort-7ac4c832.zappy5.app/services
+גלו את מגוון השירותים והמוצרים של FORT: מאווררי תקרה יוקרתיים, תאורה מעוצבת וייעוץ מקצועי למעצבי פנים.
+
+### אודות
+https://fort-7ac4c832.zappy5.app/about
+הכירו את FORT - החברה המובילה במאווררי תקרה ופתרונות תאורה מעוצבים. למדו על הניסיון, הערכים והמחויבות שלנו לאיכות.
+
+### צור קשר
+https://fort-7ac4c832.zappy5.app/contact
+צרו קשר עם המומחים של FORT לייעוץ מקצועי במאווררי תקרה ופתרונות תאורה. נשמח לעזור לכם בפרויקט הבא שלכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://fort-7ac4c832.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://fort-7ac4c832.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://fort-7ac4c832.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FORT
+FORT is a business in the קמעונאות industry.
+
+## Target Audience
+- מעצבי פנים
+
+## Industry
+קמעונאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://fort-7ac4c832.zappy5.app/sitemap.xml
+- **Robots.txt**: https://fort-7ac4c832.zappy5.app/robots.txt
