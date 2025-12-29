@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# FORT — Generative Engine Optimization Map
+
+> A קמעונאות business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://fort.zappy5.app
 גלו מאווררי תקרה יוקרתיים ופתרונות תאורה מעוצבים ב-FORT. פתרונות מקצועיים למעצבי פנים. צרו קשר עוד היום!
 
 ### שירותים
-https://example.com/services
+https://fort.zappy5.app/services
 גלו את מגוון השירותים והמוצרים של FORT: מאווררי תקרה יוקרתיים, תאורה מעוצבת וייעוץ מקצועי למעצבי פנים.
 
 ### אודות
-https://example.com/about
+https://fort.zappy5.app/about
 הכירו את FORT - החברה המובילה במאווררי תקרה ופתרונות תאורה מעוצבים. למדו על הניסיון, הערכים והמחויבות שלנו לאיכות.
 
 ### צור קשר
-https://example.com/contact
+https://fort.zappy5.app/contact
 צרו קשר עם המומחים של FORT לייעוץ מקצועי במאווררי תקרה ופתרונות תאורה. נשמח לעזור לכם בפרויקט הבא שלכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://fort.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://fort.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://fort.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About FORT
+FORT is a business in the קמעונאות industry.
+
+## Target Audience
+- מעצבי פנים
+
+## Industry
+קמעונאות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://fort.zappy5.app/sitemap.xml
+- **Robots.txt**: https://fort.zappy5.app/robots.txt
